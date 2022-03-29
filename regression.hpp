@@ -27,18 +27,6 @@ class Regression{
 
 
 auto fit(Regression const &reg);
-//{
-  //return reg.fit();
-//}
-
-
-//void Regression::add(double x, double y){
-//    ++N_;
-  //       sum_x_ += x;
-    //     sum_y_ += y;
-      //   sum_x2_ += x*x;
-        // sum_xy_ += x*y;
-//}
 
 
 
